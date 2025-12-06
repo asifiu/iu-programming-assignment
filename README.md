@@ -1,6 +1,11 @@
-# Ideal Function Matcher
+**Student Name:** Asif Iqbal  
+**Student ID:** 10245789    
+**Course:** M.Sc. Data Science   
+**University:** IU International University
 
-Python program for matching mathematical functions using least squares and sqrt(2) threshold criteria.
+# Programming With Python: Ideal Function Matcher
+
+Python program for matching mathematical functions using least squares and sqrt(2) threshold criteria.  
 
 ## Installation
 
