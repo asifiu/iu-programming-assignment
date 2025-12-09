@@ -1,8 +1,8 @@
 **Student Name:** Asif Iqbal  
 **Student ID:** 10245789    
-**Course:** Programming With Python
-**Course ID:** DLMDSPWP01
-**Study Program:** MSc. Data Science
+**Course:** Programming With Python  
+**Course ID:** DLMDSPWP01  
+**Study Program:** MSc. Data Science  
 **University:** IU International University
 
 # Programming With Python: Ideal Function Matcher
